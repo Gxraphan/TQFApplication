@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">TQF</string>
+    <string name="tqf2">มคอ. 2   v </string>
+    <string name="tqf3">มคอ. 3</string>
+    <string name="tqf4">มคอ. 4</string>
+    <string name="tqf5">มคอ. 5</string>
+    <string name="tqf6">มคอ. 6</string>
+    <string name="y1">2559</string>
+    <string name="y2">2558</string>
+    <string name="y3">2557</string>
+    <string name="y4">2556</string>
+    <string name="no">#</string>
+    <string name="code">รหัสวิชา</string>
+    <string name="subject">วิชา</string>
+    <string name="name">ผู้รับผิดชอบ</string>
+</resources>

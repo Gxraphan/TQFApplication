@@ -1,0 +1,38 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+
+        <item name="colorPrimary">#013340</item>
+        <item name="colorPrimaryDark">#013340</item>
+        <item name="colorAccent">#ff9f00</item>
+        <item name="android:textColor">#ffffff</item>
+    </style>
+
+    <style name="AppTheme.NoActionBar" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+        <item name="colorPrimaryDark">#101a23</item>
+        <item name="android:textColor">#ffffff</item>
+    </style>
+
+    <style name="main">
+        <item name="android:textSize">55dp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="YearFont">
+        <item name="android:path">fonts/Impact.ttf</item>
+        <item name="android:textSize">20dp</item>
+        <item name="android:color">#FFFF9F00</item>
+    </style>
+
+    <style name="chFont">
+        <item name="android:textSize">23dp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+
+
+
+</resources>
